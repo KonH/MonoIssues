@@ -1,1 +1,6 @@
 .DS_Store
+MonoTests/.vs
+MonoTests/bin
+MonoTests/obj
+
+MonoTests/packages
